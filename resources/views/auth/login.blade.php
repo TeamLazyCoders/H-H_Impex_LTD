@@ -64,6 +64,7 @@
                                 @endif
                             </div>
                         </div>
+                        <a href="{{ url('/redirect') }}" class="btn btn-primary">Login With Google</a>
                     </form>
                 </div>
             </div>
